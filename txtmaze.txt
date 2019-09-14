@@ -1,0 +1,13 @@
+XXXXXXXXXX
+X  X     X
+X  X C   X
+X        X
+X   XXXXXX
+X   X    X
+X   X    X
+X     A  X
+X  B     X
+XXXXXXXXXX
+
+C: A, B
+win: C
