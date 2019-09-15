@@ -1,5 +1,7 @@
 # minesweeper.py
-# by Nathan Branson and Bailey Rhodes
+# by Nathan Branson and Bailey Rhodes 
+
+# graphics.py is needed in the same folder to run this program
 
 from graphics import *
 from random import *
